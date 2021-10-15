@@ -12,18 +12,32 @@ Perancangan Sistem Informasi Akademik Berbasis Web
 Sistem Informasi Akademik adalah sebuah sebuah sistem berbasis teknologi yang dirancang untuk meninjau dan mengelola data-data yang berkaitan dengan akademik siswa, 
 sehingga dapat mempermudah dalam manajemen kegiatan akademik.
 
-•	Alasan Membuat Perancangan
+•	Alasan membuat perancangan
 Pada masa pandemi seperti ini siswa diharuskan untuk belajar dirumah sehingga proses pembelajaran tidak dapat dilakukan secara langsung (tatap muka), sedangkan para pengajar 
-di sekolah harus memberikan materi ataupun tugas kepada siswa sehingga para pengajar tidak dapat meninjau pembelajaran siswa dengan baik. Dengan adanya sistem informasi akademik ini diharapkan para pengajar dapat meninjau pembelajaran siswa secara daring, tugas – tugas juga dapat diberikan secara online sehingga siswa dapat mengumpulkan tugas yang diberikan oleh para pengajar di sekolah, dengan begitu penilaian terhadap siswa dapat dilakukan dengan baik.
+di sekolah harus memberikan materi ataupun tugas kepada siswa sehingga para pengajar tidak dapat meninjau pembelajaran siswa dengan baik. Dengan adanya sistem informasi akademik 
+ini diharapkan para pengajar dapat meninjau pembelajaran siswa secara daring, tugas – tugas juga dapat diberikan secara online sehingga siswa dapat mengumpulkan tugas yang 
+diberikan oleh para pengajar di sekolah, dengan begitu penilaian terhadap siswa dapat dilakukan dengan baik.
 
-•	Deskripsi Sistem
+•	Deskripsi sistem
 Sistem Informasi Akademik ini dapat membantu pengajar dan juga siswa untuk melakukan kegiatan belajar mengajar, dengan masa seperti ini kita tahu bahwa pengajar sulit untuk 
 memberikan tugas/materi kepada siswa, begitupun siswa sulit untuk mengumpulkan tugas yang diberikan oleh pengajar di sekolah, sehingga pengajar akan kesulitan untuk memberikan 
 nilai kepada siswa. Dengan berkembangnya teknologi saat ini terdapat banyak sosial media yang dapat digunakan untuk komunikasi, namun itu kurang tepat untuk menyelesaikan 
 masalah ini. Oleh karena itu kita butuh sistem yang baru, dengan adanya sistem informasi akademik ini diharapkan dapat membantu dan menyelesaikan masalah tersebut.
 
+•Rumusan kebutuhan pemakai
+Untuk kebutuhan Sistem informasi akademik sendiri dapat kita simpulkan menjadi 2 bagian, antara user siswa dengan user guru.
+untuk user siswa berikut kebutuhan yang diperlukan didalam SIA :
+-Akses dimana siswa bisa berinteraksi dengan guru lewat pesan di SIA
+-Platform Tempat pengumpulan tugas agar lebih efisien tanpa harus bertemu langsung
+-Siswa dapat melihat rekap nilai dan kehadiran kapanpun
+-Siswa juga dapat melihat jadwal tagihan sebelum hari pembayarannya tiba.
+-Platform untuk melakukan presensi.
 
-•	Rumusan Masalah Sistem
-- Membutuhkan sistem yang dapat meninjau/mengelola nilai dari tiap mata pelajaran siswa
-- Membutuhkan sistem yang dapat meninjau/mengelola kehadiran siswa
-- Membutuhkan siste yang dapat meninjau/mengelola nilai keseluruhan siswa
+Untuk user guru sendiri berikut kebutuhannya :
+-Akses untuk berinteraksi dengan siswa secara individu maupun universal
+-Platform pemberian nilai agar guru dapat langsung memberikan nilai dari tugas yang telah dikumpulkan siswa
+-Platform informasi agar guru dapat memberikan informasi untuk siswa
+-Platform untuk mengirim materi dan pemberian tugas.
+
+
+
